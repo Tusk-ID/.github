@@ -1,12 +1,25 @@
-## Hi there 👋
+<img width="200" height="200" alt="Tusk" src="https://github.com/user-attachments/assets/7bfaf836-bc99-42e5-a31e-e11da7fe6441" />
 
-<!--
+# TuskID: A secure authentication System
 
-**Here are some ideas to get you started:**
+---
+## Project Overview
+**TuskID** is a next-generation, QR based, authentication system designed to replace existing traditional login form system.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our goal is Simple: **Scan. Log In. Done**
+
+We provide a centralized, secure platform where users can register once & then can login anywhere without any hassle.
+
+---
+## Key Features
+* **Instant Login:** Log in anywhere with a quick QR code scan. No password, typing or 2FA required.
+* **Zero-Knowledge Security:** Robust, elephant strong security to protect user's identity.
+* **User Data Control:** User controls which data to share with websites.
+* **Universal Integration:** Easy to integrate SDK/APIs for partners.
+
+---
+## Technology Stack
+* **Backend:** Go
+* **Database:** PostgreSQL
+* **Mobile App:** Flutter
+* **Web App**: VueJS
